@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Course Name : Writing Professional Code
 Course Code : CSE 1234
 Course Tutor :Susmoy Barman
+=======
+abc
+>>>>>>> Aoboni
